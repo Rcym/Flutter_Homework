@@ -1,7 +1,7 @@
 # MC Flutter trainning
 
 ## Homework 3
-Create counter app with 3 functions 
+Create counter app with 3 functions
 Increment, decrement, reset
 
-![Screenshot](screenshot.png)
+![alt text](https://github.com/Rcym/Flutter_Homework/blob/main/screenshot.jpg?raw=true)
